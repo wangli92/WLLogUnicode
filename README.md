@@ -1,0 +1,1 @@
+处理在Objective-C中，NSArray、NSDictionary、NSSet在控制台打印日志的时候对于Unicode编码不能正常显示中文的问题，只需导入文件无需任何操作，即可使用 
